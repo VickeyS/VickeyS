@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @VickeyS
+- 👋 Hi, I’m @Vickey S patel
 - 👀 I’m interested in ...Artificial intelligence & machine learning
 - 🌱 I’m currently learning ...Artificial intelligence & machine learning
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...vspatel203@gmail.com
 
 <!---
